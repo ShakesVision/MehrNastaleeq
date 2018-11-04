@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'mehr';
-	src: url('https://cdn.rawgit.com/shakeebahmad95/MehrNastaleeq/07997528/MehrNastaliqWeb.eot');
-	src: local('mehr'), url('https://cdn.rawgit.com/shakeebahmad95/MehrNastaleeq/07997528/MehrNastaliqWeb.woff') format('woff'), url('https://cdn.rawgit.com/shakeebahmad95/MehrNastaleeq/07997528/MehrNastaliqWeb.ttf') format('truetype');
+	src: url('https://cdn.jsdelivr.net/gh/shakeebahmad95/MehrNastaleeq@07997528965c267a97eb43bb90957f65a7910bf7/MehrNastaliqWeb.eot');
+	src: local('mehr'), url('https://cdn.jsdelivr.net/gh/shakeebahmad95/MehrNastaleeq@07997528965c267a97eb43bb90957f65a7910bf7/MehrNastaliqWeb.woff') format('woff'), url('https://cdn.jsdelivr.net/gh/shakeebahmad95/MehrNastaleeq@07997528965c267a97eb43bb90957f65a7910bf7/MehrNastaliqWeb.ttf') format('truetype');
 }
 
 /* use this class to attach this font to any element i.e. <p class="fontsforweb_fontid_7780">Text with this font applied</p> */
